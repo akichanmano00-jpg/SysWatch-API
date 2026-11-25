@@ -1,0 +1,16 @@
+
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Base de données
+*.db
+*.sqlite
+*.sqlite3
+
+# Configuration locale
+.env
+
+# IDE
+.vscode/
